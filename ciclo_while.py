@@ -1,4 +1,4 @@
-#ciclo_while
+#ciclo_while en python
 x=int(input("dime Cual es la tabla de multiplicar que deseas imprimir "))
 a=1
 while a <= 10: 
